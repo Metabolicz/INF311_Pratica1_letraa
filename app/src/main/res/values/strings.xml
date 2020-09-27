@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="valor_1">Valor 1:</string>
+    <string name="valor_2">Valor 2:</string>
+    <string name="soma">+</string>
+    <string name="sub">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="res">O Resultado é:</string>
+    <string name="resposta">A resposta é:</string>
+    <string name="letra_b">Letra B</string>
+    <string name="letra_a">Letra A</string>
+</resources>
